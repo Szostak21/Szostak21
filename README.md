@@ -22,7 +22,7 @@
 <br/>
 
 <h3 align="center">
-  <img src="./assets/code-icon.svg" width="24" height="24" align="middle"/> Tech Stack
+  <sub><img src="./assets/code-icon.svg" width="24" height="24"/></sub> Tech Stack
 </h3>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
@@ -36,7 +36,7 @@
 <br/>
 
 <h3 align="center">
-  <img src="./assets/stats-icon.svg" width="24" height="24" align="middle"/> GitHub Stats
+  <sub><img src="./assets/stats-icon.svg" width="24" height="24"/></sub> GitHub Stats
 </h3>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
@@ -51,7 +51,7 @@
 <br/>
 
 <h3 align="center">
-  <img src="./assets/connect-icon.svg" width="24" height="24" align="middle"/> Connect With Me
+  <sub><img src="./assets/connect-icon.svg" width="24" height="24"/></sub> Connect With Me
 </h3>
 
 <img src="./assets/purple-divider.svg" width="100%"/>

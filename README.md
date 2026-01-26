@@ -22,7 +22,7 @@
 <br/>
 
 <h3 align="center">
-  <sub><img src="./assets/code-icon.svg" width="24" height="24"/></sub> Tech Stack
+  <sub><img src="./assets/code-icon.svg" width="24" height="24"/></sub>&nbsp; Tech Stack
 </h3>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
@@ -36,7 +36,7 @@
 <br/>
 
 <h3 align="center">
-  <sub><img src="./assets/stats-icon.svg" width="24" height="24"/></sub> GitHub Stats
+  <sub><img src="./assets/stats-icon.svg" width="24" height="24"/></sub>&nbsp; GitHub Stats
 </h3>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
@@ -51,7 +51,7 @@
 <br/>
 
 <h3 align="center">
-  <sub><img src="./assets/connect-icon.svg" width="24" height="24"/></sub> Connect With Me
+  <sub><img src="./assets/connect-icon.svg" width="24" height="24"/></sub>&nbsp; Connect With Me
 </h3>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
@@ -71,7 +71,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Szostak21&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS"/>
 </div>
-
-<br/>
-
-<img src="./assets/purple-divider.svg" width="100%"/>

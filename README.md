@@ -1,16 +1,83 @@
-## Hi there 👋
+<a href="https://pawelszostak.vercel.app">
+  <img src="./assets/banner.png" width="100%" alt="Paweł Szostak - Full Stack Developer"/>
+</a>
 
-<!--
-**Szostak21/Szostak21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<img src="./assets/purple-divider.svg" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align="center" style="font-size: 28px; font-weight: bold; margin-bottom: 5px;">Hi, I'm Paweł Szostak</p>
+
+<p align="center">
+  <strong>Computer Science</strong> student at <strong>AGH University of Krakow</strong> • <em>Computer Science & Intelligent Systems</em>
+</p>
+
+<p align="center">
+  I'm a passionate developer who loves building things that make life easier, more intresting and enjoyable.<br/>
+  From <strong>Websites</strong> to <strong>full-stack mobile applications</strong>, I enjoy turning complex problems into elegant solutions.
+</p>
+
+<br/>
+
+<p align="center" style="font-size: 28px; font-weight: bold; margin-bottom: 5px;">
+  <img src="./assets/code-icon.svg" width="24" height="24" style="vertical-align: middle;"/> Tech Stack
+</p>
+
+<img src="./assets/purple-divider.svg" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,react,nextjs,nodejs,python,tailwindcss,css,cpp,spring,expo,postgresql,mongodb,docker,git,github,figma,vercel&theme=dark&titles=true&perline=9" alt="Tech Stack"/>
+</p>
+
+<br/>
+
+<p align="center" style="font-size: 28px; font-weight: bold; margin-bottom: 5px;">
+  <img src="./assets/stats-icon.svg" width="24" height="24" style="vertical-align: middle;"/> GitHub Stats
+</p>
+
+<img src="./assets/purple-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Szostak21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szostak21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<p align="center" style="font-size: 28px; font-weight: bold; margin-bottom: 5px;">
+  <img src="./assets/connect-icon.svg" width="24" height="24" style="vertical-align: middle;"/> Connect With Me
+</p>
+
+<img src="./assets/purple-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pawe%C5%82-szostak-0867703a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pawelszostak.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-a855f7?style=for-the-badge&logoColor=white" alt="Website"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pszostak.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Szostak21&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS"/>
+</div>
+
+<br/>
+
+<img src="./assets/purple-divider.svg" width="100%"/>

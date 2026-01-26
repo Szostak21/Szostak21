@@ -8,7 +8,7 @@
 
 <br/>
 
-<p align="center" style="font-size: 28px; font-weight: bold; margin-bottom: 5px;">Hi, I'm Paweł Szostak</p>
+<h3 align="center">Hi, I'm Paweł Szostak</h3>
 
 <p align="center">
   <strong>Computer Science</strong> student at <strong>AGH University of Krakow</strong> • <em>Computer Science & Intelligent Systems</em>
@@ -21,9 +21,9 @@
 
 <br/>
 
-<p align="center" style="font-size: 28px; font-weight: bold; margin-bottom: 5px;">
+<h3 align="center">
   <img src="./assets/code-icon.svg" width="24" height="24" style="vertical-align: middle;"/> Tech Stack
-</p>
+</h3>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
 
@@ -35,9 +35,9 @@
 
 <br/>
 
-<p align="center" style="font-size: 28px; font-weight: bold; margin-bottom: 5px;">
+<h3 align="center">
   <img src="./assets/stats-icon.svg" width="24" height="24" style="vertical-align: middle;"/> GitHub Stats
-</p>
+</h3>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
 
@@ -50,26 +50,20 @@
 
 <br/>
 
-<p align="center" style="font-size: 28px; font-weight: bold; margin-bottom: 5px;">
+<h3 align="center">
   <img src="./assets/connect-icon.svg" width="24" height="24" style="vertical-align: middle;"/> Connect With Me
-</p>
+</h3>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pawe%C5%82-szostak-0867703a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/pawe%C5%82-szostak-0867703a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://pawelszostak.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-a855f7?style=for-the-badge&logoColor=white" alt="Website"/>
-  </a>
+  <a href="https://pawelszostak.vercel.app/"><img src="https://img.shields.io/badge/Website-a855f7?style=for-the-badge&logoColor=white" alt="Website"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:pszostak.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
-  </a>
+  <a href="mailto:pszostak.contact@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logoColor=white" alt="Email"/></a>
 </div>
 
 <br/>
@@ -77,7 +71,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Szostak21&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS"/>
 </div>
-
-<br/>
-
-<img src="./assets/purple-divider.svg" width="100%"/>

@@ -1,4 +1,4 @@
-<a href="https://pawelszostak.vercel.app">
+<a href="https://pszostak.pl">
   <img src="./assets/banner.png" width="100%" alt="Paweł Szostak - Full Stack Developer"/>
 </a>
 
@@ -61,7 +61,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/pawe%C5%82-szostak-0867703a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://pawelszostak.vercel.app/"><img src="https://img.shields.io/badge/Website-a855f7?style=for-the-badge&logoColor=white" alt="Website"/></a>
+  <a href="https://pszostak.pl/"><img src="https://img.shields.io/badge/Website-a855f7?style=for-the-badge&logoColor=white" alt="Website"/></a>
   &nbsp;&nbsp;
   <a href="mailto:pszostak.contact@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logoColor=white" alt="Email"/></a>
 </div>

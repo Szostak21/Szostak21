@@ -44,8 +44,8 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Szostak21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Szostak21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6" alt="Top Languages"/>
+  <img height="180em" src="https://pszostak-stats.vercel.app/api?username=Szostak21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://pszostak-stats.vercel.app/api/top-langs/?username=Szostak21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6" alt="Top Languages"/>
 </div>
 
 <br/>
